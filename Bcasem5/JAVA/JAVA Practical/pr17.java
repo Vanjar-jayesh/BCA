@@ -24,3 +24,5 @@ public class pr17 {
 
     }
 }
+OUTPUT:
+mehtod_overloading:22 33
