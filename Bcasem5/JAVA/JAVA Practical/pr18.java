@@ -1,4 +1,4 @@
-
+package practicaljava;
 class constructors{
     constructors(){
         System.out.println("this is a default constructors:");
@@ -10,3 +10,6 @@ public class pr18 {
         
     }
 }
+
+OUTPUT:
+this is a default constructors:
