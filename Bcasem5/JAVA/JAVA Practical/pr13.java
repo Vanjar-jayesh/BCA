@@ -82,3 +82,15 @@ public class pr13 {
         
     }
 }
+
+OUTPUT:
+enter the marsk:
+78
+77
+67
+68
+88
+total marsk of student:378
+per:75.6
+avg :75
+B
