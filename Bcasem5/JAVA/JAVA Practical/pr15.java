@@ -19,3 +19,9 @@ public class pr15 {
         math(3);
     }
 }
+
+OUTPUT:
+static block initalized:
+x :3
+a:3
+b :0
