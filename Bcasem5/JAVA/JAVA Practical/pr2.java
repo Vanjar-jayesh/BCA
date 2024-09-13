@@ -4,11 +4,8 @@ package practicaljava;
 import java.util.Scanner;
 
 public class pr2 {
-<<<<<<< HEAD
-    public static void main(String[] args) {
-=======
  public static void main(String[] args) {
->>>>>>> d57630d95a0eb09d765f2fa6ae036adaf297c42c
+
         int n ;
         int fact = 1;
 
@@ -24,8 +21,12 @@ public class pr2 {
         System.out.println(fact);
         // System.out.println(fact);
     }
-<<<<<<< HEAD
-=======
-    
->>>>>>> d57630d95a0eb09d765f2fa6ae036adaf297c42c
+
+
 }
+
+OUTPUT:
+
+enter the number of n : 5
+    120
+
