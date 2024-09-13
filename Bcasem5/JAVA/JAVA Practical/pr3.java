@@ -24,4 +24,10 @@ public class pr3 {
 
     }   
 }
-
+OUTPUT:
+Enter number n1:
+12
+ Enter number n2:
+11
+ n1 is lagest then n2:12
+ 
