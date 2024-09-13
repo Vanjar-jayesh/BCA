@@ -66,3 +66,14 @@ public class pr14 {
         
     }
 }
+
+OUTPUT:
+enter Employee ID: 
+121
+enter Employee name: 
+JON
+enter Employee salary
+50000
+Eployee id : 121
+Employee name:JON
+Employee gross salary: 62500.0
