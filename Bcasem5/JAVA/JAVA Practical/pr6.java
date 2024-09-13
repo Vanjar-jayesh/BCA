@@ -19,3 +19,7 @@ public class pr6 {
         System.out.println("sum of number digist:"+sum);
     }
 }
+OUTPUT:
+enter number n1:
+12
+sum of number digist:3
