@@ -10,3 +10,5 @@ public class pr11 {
     }
     
 }
+OUTPUT:
+Command-line Arguments:0
