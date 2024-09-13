@@ -32,3 +32,8 @@ public class pr16 {
         nm.mehtod2(20, 10);
     }   
 }
+
+OUTPUT:
+x * y : 200
+a10
+20
