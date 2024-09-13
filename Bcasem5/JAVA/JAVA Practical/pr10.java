@@ -34,3 +34,10 @@ public class pr10 {
 
     }
 }
+
+OUTPUT:
+enter the number:
+2
+enter the number:
+1
+not the sema of the value is  n and x
