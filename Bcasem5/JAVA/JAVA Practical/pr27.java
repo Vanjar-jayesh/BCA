@@ -48,3 +48,12 @@ public class pr27 {
         in.blowhornmhn();
     }
 }
+
+/*
+ * OUTPUT:
+ * Applying speedup
+ * value a: 45
+ * value x: 45
+ * kabhi khushi kabhi gum pee pee pee
+ * main horn popopo
+ */
