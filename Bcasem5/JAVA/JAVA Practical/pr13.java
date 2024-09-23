@@ -5,7 +5,7 @@ import java.util.Scanner;
 import array01.pusone;
 
 /**
- *  
+ *  Write a java program to create a syudent class and generate result of student (Total,per,grade).
  */
  class   Student{
 
