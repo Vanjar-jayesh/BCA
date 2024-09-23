@@ -1,3 +1,4 @@
+// Write a java program that implements the use of continue statement.
 package practicaljava;
 
 import java.util.Scanner;
