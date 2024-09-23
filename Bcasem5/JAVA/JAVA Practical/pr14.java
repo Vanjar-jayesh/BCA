@@ -1,3 +1,4 @@
+// Write a java program to create an employee class and generate salay slip for the employee.
 package practicaljava;
 
 import java.util.Scanner;
