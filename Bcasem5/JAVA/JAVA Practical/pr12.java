@@ -1,3 +1,5 @@
+// Write a java program to sort the elements of an array in Ascending order
+
 package practicaljava;
 
 public class pr12 {
