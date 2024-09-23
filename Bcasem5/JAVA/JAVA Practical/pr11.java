@@ -1,3 +1,4 @@
+// write a java program that will accept command-line arguments and display the same
 package practicaljava;
 
 public class pr11 {
