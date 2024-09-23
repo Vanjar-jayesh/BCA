@@ -1,3 +1,5 @@
+// Write a java program which shows the use of static members
+
 package practicaljava;
 
 import linked.likelist.lin01;
