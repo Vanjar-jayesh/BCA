@@ -15,3 +15,8 @@ public class pr40 {
         System.out.println("end of the program :");
     }
 }
+/*
+ * OUTPUT:
+ * we filed to divide Reason :java.lang.ArithmeticException: / by zero
+ * end of the program :
+ */
