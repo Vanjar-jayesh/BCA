@@ -1,3 +1,4 @@
+// write a java progarm which implements the default constructors.
 package practicaljava;
 class constructors{
     constructors(){
