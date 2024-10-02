@@ -1,3 +1,4 @@
+//// write a java progarm which implements the paeameterized constructors.
 package practicaljava;
 
 class parameterized_construcors{
