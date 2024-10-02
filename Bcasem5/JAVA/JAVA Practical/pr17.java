@@ -1,4 +1,5 @@
-// package practicaljava;
+//write a java program which show the use of methods overloading.
+ package practicaljava;
  class mehtod_overloading{
 
     static int add(int a, int b){
