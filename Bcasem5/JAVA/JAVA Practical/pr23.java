@@ -1,3 +1,4 @@
+// write a java program which explains the concept of hierarchical  inheritance.
 package practicaljava;
 
 
