@@ -1,3 +1,4 @@
+// // write a java program which shows the method overriding.
 package practicaljava;
 class over{
     int x; 
