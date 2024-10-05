@@ -1,3 +1,4 @@
+// write a java program to implement abstract class and abstract method.
 package practicaljava;
 
 abstract class jay {
