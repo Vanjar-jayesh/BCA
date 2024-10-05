@@ -1,3 +1,4 @@
+// write a java program which  implement interface. 
 package practicaljava;
 interface bicycle{
     int a =45;
