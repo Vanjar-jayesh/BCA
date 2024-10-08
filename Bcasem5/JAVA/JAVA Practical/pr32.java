@@ -1,3 +1,4 @@
+// // write a java program to implements the methods of vectorclass.
 package practicaljava;
 
 import java.util.Enumeration;
