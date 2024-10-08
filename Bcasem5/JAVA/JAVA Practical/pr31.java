@@ -1,3 +1,4 @@
+//// write a java program to implements the methods of String class.
 package practicaljava;
 
 public class pr31 {
