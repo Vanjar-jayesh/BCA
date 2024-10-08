@@ -1,3 +1,4 @@
+//write a java progarm which implements multiple interfaces.
 package practicaljava;
 
 interface A {
