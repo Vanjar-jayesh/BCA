@@ -1,3 +1,5 @@
+// write a java progarm to implement the methods of stack class.
+
 package practicaljava;
 
 import java.util.Stack;
