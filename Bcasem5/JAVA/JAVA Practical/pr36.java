@@ -1,3 +1,4 @@
+// write a java program which creates threads using the Thread Class.
 package practicaljava;
 class mythread extends Thread{
     public void run(){
