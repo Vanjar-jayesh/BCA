@@ -1,3 +1,4 @@
+// write a java program which will read a string and rewrite it the alphabetical order eg.the word "STRING" should be written a "GINRST".
 package practicaljava;
 
 import java.util.Arrays;
