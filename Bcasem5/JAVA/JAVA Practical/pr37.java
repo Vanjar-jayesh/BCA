@@ -1,3 +1,4 @@
+// write a java progarm which shows the use of yield(),stop(),and sleep() method.
 package practicaljava;
 
 class MyThread1 extends Thread {
