@@ -1,3 +1,4 @@
+// write a java program which use of Runnable Interface.
 package practicaljava;
 
 class myrunnbale1 implements Runnable {
