@@ -1,3 +1,4 @@
+// write a java program which shows the priority in Threads.
 package practicaljava;
 
 class priority extends Thread {
