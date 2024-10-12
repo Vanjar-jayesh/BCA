@@ -1,3 +1,4 @@
+// write a java program which will read a text and count all occurrences of prticular word.
 package practicaljava;
 
 public class pr34 {
