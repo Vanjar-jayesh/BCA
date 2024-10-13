@@ -1,3 +1,4 @@
+// write a java program which uses multiple catch Blocks
 package practicaljava;
 
 public class pr41 {
