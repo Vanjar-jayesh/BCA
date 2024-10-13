@@ -1,3 +1,4 @@
+// write a java program which  shows throwing our own exception.
 package practicaljava;
 
 import java.io.IOException;
