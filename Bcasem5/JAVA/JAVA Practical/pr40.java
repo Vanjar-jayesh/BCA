@@ -1,3 +1,4 @@
+// write a java program which uses try and catch for exception handling.
 package practicaljava;
 
 public class pr40 {
