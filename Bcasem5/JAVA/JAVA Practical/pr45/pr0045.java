@@ -1,3 +1,4 @@
+// create an applet program that print Hello applet.
 package practicaljava.pr45;
 
 import java.applet.Applet;
