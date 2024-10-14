@@ -1,3 +1,4 @@
+// Create an applet that use init(),start(),stop()and destroy() methodas of applet.
 package practicaljava.pr46;
 
 import java.applet.Applet;
