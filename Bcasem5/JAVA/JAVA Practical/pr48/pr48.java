@@ -1,3 +1,4 @@
+// write an applet program to implement various method of graphics class.
 package practicaljava.pr48;
 
 import java.applet.Applet;
