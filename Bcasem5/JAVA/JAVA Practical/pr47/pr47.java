@@ -1,3 +1,4 @@
+// write an applet program to implement the concept of passng parameter to applet.
 package practicaljava;
 
 import java.applet.Applet;
