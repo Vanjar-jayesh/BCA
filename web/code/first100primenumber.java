@@ -1,3 +1,5 @@
+
+
 package code;
 
 public class first100primenumber {
